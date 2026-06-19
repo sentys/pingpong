@@ -3,9 +3,9 @@ guid: c1eca9b4349c68a44904938a04f1b518
 AssetOrigin:
   serializedVersion: 1
   productId: 244591
-  packageName: 'Pong 360: Complete Project'
+  packageName: 
   packageVersion: 1.0.0
-  assetPath: Assets/IntenseNation/Pong 360/Images/Circle.png
+  assetPath: 
   uploadId: 753464
 TextureImporter:
   internalIDToNameTable: []

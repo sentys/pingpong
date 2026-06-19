@@ -3,9 +3,9 @@ guid: 149b095601b56004d90daef2815411a9
 AssetOrigin:
   serializedVersion: 1
   productId: 244591
-  packageName: 'Pong 360: Complete Project'
+  packageName: 
   packageVersion: 1.0.0
-  assetPath: Assets/IntenseNation/Pong 360/Images/BackgroundRing.png
+  assetPath: 
   uploadId: 753464
 TextureImporter:
   internalIDToNameTable: []

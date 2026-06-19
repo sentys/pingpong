@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6fabf0d6db3cfda4fa62ec6f7cf3b394
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244591
+  packageName: 'Pong 360: Complete Project'
+  packageVersion: 1.0.0
+  assetPath: Assets/IntenseNation/Pong 360/Scripts/GameManager.cs
+  uploadId: 753464

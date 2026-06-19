@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd47df5e991dea44fab290d1227940fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244591
+  packageName: 'Pong 360: Complete Project'
+  packageVersion: 1.0.0
+  assetPath: Assets/IntenseNation/Pong 360/Scripts/Settings.cs
+  uploadId: 753464

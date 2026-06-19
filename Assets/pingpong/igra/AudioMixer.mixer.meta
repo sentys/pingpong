@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cce26b88aad2b4429d6e7c56de66e47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244591
+  packageName: 'Pong 360: Complete Project'
+  packageVersion: 1.0.0
+  assetPath: Assets/IntenseNation/Pong 360/AudioMixer.mixer
+  uploadId: 753464

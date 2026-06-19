@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de125121424036942b487e57ed64555a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244591
+  packageName: 'Pong 360: Complete Project'
+  packageVersion: 1.0.0
+  assetPath: Assets/IntenseNation/Pong 360/BallPhysics.physicsMaterial2D
+  uploadId: 753464

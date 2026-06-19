@@ -3,9 +3,9 @@ guid: b93baf8d76b898c42ae0a17eef1facf2
 AssetOrigin:
   serializedVersion: 1
   productId: 244591
-  packageName: 'Pong 360: Complete Project'
+  packageName: 
   packageVersion: 1.0.0
-  assetPath: Assets/IntenseNation/Pong 360/Images/Player.png
+  assetPath: 
   uploadId: 753464
 TextureImporter:
   internalIDToNameTable: []

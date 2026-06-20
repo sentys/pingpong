@@ -15,15 +15,12 @@ namespace pingpong.igra
         public float ballAcceleration = 0.2f;
         public bool hideLevelInMainMenu;
         public InputType inputType;
-#if INTENSENATION_SAVEANDLOAD
+
         public SaveProvider saveProvider;
-#else
+
         [HideInInspector]
         public SaveProvider saveProvider = SaveProvider.PlayerPrefs;
-#endif
         
-        [Header("Links")] 
-        public string websiteLink = "https://intensenation.com/";
 
         [Header("Audio")]
         public AudioClip highScoreClip;    
